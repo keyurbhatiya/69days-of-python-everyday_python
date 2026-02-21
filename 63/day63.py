@@ -95,5 +95,3 @@ print(f"\n🏆 TOP CANDIDATE: {top_name} ({top_score * 100:.1f}% match)")
 print(f"\n💡 TIP: This screener uses TF-IDF vectorization to convert")
 print(f"   text into numbers and cosine similarity to find the best match.")
 print(f"   It's the same tech used by real ATS (Applicant Tracking Systems)!")
-
-
